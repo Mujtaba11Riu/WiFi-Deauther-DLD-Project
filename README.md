@@ -1,6 +1,7 @@
-# 📡 Wi-Fi Deauther using NodeMCU ESP8266 – DLD Final Year Project
+# 📡 Wi-Fi Deauther using NodeMCU ESP8266 – DLD Semester-End Project
 
-This repository contains the full documentation and proposal of our Digital Logic Design (DLD) final year project. We developed a **Wi-Fi Deauther** using the **NodeMCU ESP8266** microcontroller to ethically demonstrate wireless network vulnerabilities through deauthentication attacks.
+This repository contains the full documentation and proposal of our **semester-end project** for the course **Digital Logic Design (DLD)**.  
+We developed a **Wi-Fi Deauther** using the **NodeMCU ESP8266** microcontroller to ethically demonstrate wireless network vulnerabilities through deauthentication attacks.
 
 ---
 
@@ -51,3 +52,4 @@ This project is for **educational purposes only**. All tests were performed on n
 - 🧑‍🏫 Instructor: Sir Hasnat Ali
 - 🏫 University: Riphah International University
 - 📆 Submitted: May 26, 2025
+- 🗓️ Semester-End Project (BS Cyber Security)
